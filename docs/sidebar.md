@@ -9,3 +9,7 @@
   - [解构赋值](var/dest.md)
 - [模块](esm/index.md)
   - [基本导入导出](esm/export-import.md)
+- [问题汇总](faq/index.md)
+  - [es6](faq/es6.md)
+  - [git](faq/git.md)
+  - [ajax](faq/ajax.md)
