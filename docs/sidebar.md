@@ -13,3 +13,4 @@
   - [es6](faq/es6.md)
   - [git](faq/git.md)
   - [ajax](faq/ajax.md)
+  - [http](faq/http.md)
