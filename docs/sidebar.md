@@ -1,4 +1,4 @@
-- [介绍](index.md)
+- [介绍](index.md)
 - [环境配置](env/index.md)
   - [parcel](env/parcel.md)
   - [babel](env/babel.md)
