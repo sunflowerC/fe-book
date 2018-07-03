@@ -29,3 +29,22 @@ import fn from './fn';
 
 console.log(fn().b ); // 2
 ```
+
+## 花括号
+module a
+```
+export const a = 1;
+export const b = 1;
+export const fn = () => {};
+
+export default {
+  d: 1
+};
+```
+module b
+```
+import test, { fn } from './a.js';
+import React, { Component } from 'react';
+
+test.d;
+```

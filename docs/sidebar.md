@@ -14,6 +14,7 @@
 - [模块](esm/index.md)
   - [基本导入导出](esm/export-import.md)
 - [git 基础操作](git/index.md)
+- [vue 全家桶](vue/index.md)
 - [问题汇总](faq/index.md)
   - [es6](faq/es6.md)
   - [git](faq/git.md)
